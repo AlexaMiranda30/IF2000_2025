@@ -8,12 +8,13 @@ package com.mycompany.if2000_introduccionprogra;
  *
  * @author almi0
  */
+import domain.Person;
 public class IF2000_IntroduccionProgra {
 
     public static void main(String[] args) {
       
         
-        
+        /*
         //Data Types
         String name = "Lionel";
         int age = 40;
@@ -42,5 +43,7 @@ public class IF2000_IntroduccionProgra {
            boolean
            */
         
+        Person p = new Person ("Alexa", "Miranda", "402510087","14525455", 20);
+            System.out.println(p.toString()); 
     }
 }
