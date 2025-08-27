@@ -47,15 +47,20 @@ public class IF2000_IntroduccionProgra {
         //Person p = new Person ("Alexa", "Miranda", "402510087","14525455", 20);
            // System.out.println(p.toString()); 
            
-           Ejercicios_Semana2_PracticaEnClase ej;
-           ej = new Ejercicios_Semana2_PracticaEnClase();
+           //Ejercicios_Semana2_PracticaEnClase ej;
+           //ej = new Ejercicios_Semana2_PracticaEnClase();
            //ej.quiz2_Piramide(5);
-          //ej.ejercicioA(5);
+           //ej.ejercicioA(5);
            //ej.ejercicioB (11);
-            //ej.ejercicioC (10);
+           // ej.ejercicioC (10);
            //ej.ejercicioD();
            // ej.ejercicioE();
-            ej.ejercicioF();
+           //ej.ejercicioF();
+           
+           Quices ej;
+           ej = new Quices();
+           ej.Quiz3(5);
+           
     }
 }
         
