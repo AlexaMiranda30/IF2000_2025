@@ -57,9 +57,25 @@ public class IF2000_IntroduccionProgra {
            // ej.ejercicioE();
            //ej.ejercicioF();
            
-           Quices ej;
-           ej = new Quices();
-           ej.Quiz3(5);
+           //Quices ej;
+           //ej = new Quices();
+           //ej.Quiz3(5);
+           
+           lab1_ejercicios ej;
+           ej = new lab1_ejercicios();
+           //ej. ejercicio1 ();
+           //ej. ejercicio2();
+          // ej. ejercicio3();
+          //ej. ejercicio4();
+          //ej. ejercicio5();
+          //ej. ejercicio6();
+          //ej. ejercicio7();
+           //ej. ejercicio8();
+           //ej. ejercicio9();
+           //ej. ejercicio10();
+          //ej. ejercicio11();
+          ej. ejercicio12();
+         
            
     }
 }
