@@ -61,8 +61,8 @@ public class IF2000_IntroduccionProgra {
            //ej = new Quices();
            //ej.Quiz3(5);
            
-           lab1_ejercicios ej;
-           ej = new lab1_ejercicios();
+           //lab1_ejercicios ej;
+           //ej = new lab1_ejercicios();
            //ej. ejercicio1 ();
            //ej. ejercicio2();
           // ej. ejercicio3();
@@ -74,9 +74,27 @@ public class IF2000_IntroduccionProgra {
            //ej. ejercicio9();
            //ej. ejercicio10();
           //ej. ejercicio11();
-          ej. ejercicio12();
+         // ej. ejercicio12();
          
-           
+        Lab2_ejercicios ej;
+        ej = new Lab2_ejercicios();
+        //ej. ejercicio13();
+        //ej. ejercicio14();
+         //ej. ejercicio15();
+         //ej. ejercicio16();
+         //ej. ejercicio17();
+         //ej. ejercicio18();
+         //ej. ejercicio19();
+         //ej. ejercicio20();
+         //ej. ejercicio21();
+         //ej. ejercicio22();
+         //ej. ejercicio23();
+         //ej. ejercicio24();
+         //ej. ejercicio25();
+         //ej. ejercicio26();
+         //ej. ejercicio27();
+                  
+         
     }
 }
         
